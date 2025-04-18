@@ -2,7 +2,7 @@
 
 import streamlit as st
 import numpy as np
-import pickle
+import joblib
 from PIL import Image
 
 # Load model dan scaler
