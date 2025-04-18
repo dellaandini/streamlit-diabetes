@@ -7,3 +7,4 @@ seaborn
 Pillow
 imbalanced-learn
 joblib
+python-3.10
