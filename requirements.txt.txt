@@ -1,7 +1,7 @@
 streamlit
 scikit-learn
 pandas
-numpy
+numpy=2.2.3
 matplotlib
 seaborn
 Pillow
