@@ -4,5 +4,6 @@ pandas
 numpy
 matplotlib
 seaborn
+joblib
 Pillow
-imblearn
+imbalanced-learn
