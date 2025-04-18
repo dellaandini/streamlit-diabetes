@@ -1,8 +1,8 @@
-pip install joblib
+
 
 import streamlit as st
 import numpy as np
-import joblib
+import pickle
 from PIL import Image
 
 # Load model dan scaler
