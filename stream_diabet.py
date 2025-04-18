@@ -7,7 +7,7 @@ from PIL import Image
 
 # Load model dan scaler
 model = joblib.load('model_diabetes_rf.pkl')
-
+scaler = joblib.load('scaler_diabetes.pkl')
 
 # Konfigurasi halaman
 st.set_page_config(page_title="Prediksi Diabetes", layout="wide")
