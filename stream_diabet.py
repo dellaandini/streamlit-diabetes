@@ -1,9 +1,3 @@
-import sys
-print("Python version:", sys.version)
-print("Installed packages:")
-import pkg_resources
-print([p.project_name for p in pkg_resources.working_set])
-
 
 import streamlit as st
 import numpy as np
